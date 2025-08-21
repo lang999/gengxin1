@@ -1,81 +1,82 @@
 {
     "code": 200,
    "searchwd": "http://api1.changfapiaopiao.top/searchword/ssword.php",
+   "searchwd_en": "http://s001.xka3b.top/config_en/public/hotword.txt",
 
     "config": [
 	
 	{
             "title": "视频",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/video.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/video.txt"
             
         },
 {
             "title": "全网破解",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/xiaojingling_new.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/xiaojingling_new.txt"
             
         },
          {
             "title": "福利",
-            "api": "http://003.22s.lol",
+            "api": "http://s001.xka3b.top",
             "platform": "/searchconfig/appdaohang.txt"
             
         },
  {
             "title": "短视频",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/shortv.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/shortv.txt"
             
         },
         {
             "title": "女优",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/actress.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/actress.txt"
             
         },
         {
             "title": "番号",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/number.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/number.txt"
             
         },
 {
             "title": "约炮",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/yuepao.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/yuepao.txt"
             
         },
      {
             "title": "吃瓜",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/heiliao.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/heiliao.txt"
            
         },
 {
             "title": "三级",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/sanji.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/sanji.txt"
            
         },
         {
             "title": "小说",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/novel.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/novel.txt"
            
         },
 
         {
             "title": "漫画",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/comic.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/comic.txt"
            
         },
 
         {
             "title": "图片",
-            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
-            "platform": "/picture.txt"
+            "api": "http://s001.xka3b.top",
+            "platform": "/searchconfig/picture.txt"
         }
         
     ]
